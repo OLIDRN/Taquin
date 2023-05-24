@@ -7,28 +7,17 @@ Le Taquin est un jeu de puzzle classique dans lequel le joueur doit réarranger 
 ## Fonctionnalités
 
 - Interface graphique conviviale : Le jeu Taquin dispose d'une interface utilisateur intuitive et conviviale qui permet aux joueurs de naviguer facilement à travers le jeu.
-- Choix de la difficulté : Les joueurs peuvent choisir entre différentes tailles de grille pour augmenter ou diminuer la complexité du jeu.
-- Mode de jeu chronométré : Le Taquin peut être joué en mode chronométré, ce qui ajoute une dimension supplémentaire en incitant les joueurs à terminer le jeu dans les meilleurs délais.
 - Système de sauvegarde : Les joueurs peuvent sauvegarder leur progression dans le jeu et y revenir plus tard s'ils le souhaitent.
 
 ## Comment jouer
 
 1. Lancez le jeu Taquin sur votre ordinateur.
-2. Sélectionnez la taille de la grille souhaitée.
-3. Vous verrez une image mélangée sur la grille.
-4. Utilisez les touches directionnelles (ou cliquez sur les cases adjacentes) pour déplacer les pièces du puzzle.
-5. Réorganisez les pièces du puzzle en les déplaçant jusqu'à ce que l'image soit reconstituée.
-6. Si vous êtes coincé, utilisez l'option de mélange pour remettre les pièces dans un ordre aléatoire et essayer une nouvelle approche.
-7. Une fois que vous avez reconstitué l'image, vous avez terminé le jeu !
+2. Vous verrez une image mélangée sur la grille.
+3. Utilisez les touches directionnelles (ou cliquez sur les cases adjacentes) pour déplacer les pièces du puzzle.
+4. Pouvoir recommencer si possible.
+5. Une fois que vous avez reconstitué l'image, vous avez terminé le jeu !
 
 Amusez-vous bien avec le Taquin !
-
-## Exigences du système
-
-- Système d'exploitation : Windows, macOS, Linux
-- Processeur : 1 GHz ou supérieur
-- Mémoire RAM : 512 Mo ou supérieur
-- Espace disque disponible : 50 Mo
 
 ## Installation
 
